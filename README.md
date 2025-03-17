@@ -15,7 +15,7 @@ Requires:
 
 Open Shape-Viewer folder in an IDE.
 
-Create a [.env] file under the fetch-front-end-assessment folder and in it, add:
+Create a .env file under the fetch-front-end-assessment folder and in it, add:
 ```
 VITE_FETCH_BASE_URL=https://frontend-take-home-service.fetch.com
 ```
