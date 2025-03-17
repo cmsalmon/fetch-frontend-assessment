@@ -1,0 +1,36 @@
+.card {
+    width: 370px;
+    height: 350px;
+    background-color: #F7FFFE;
+}
+
+.imageContainer {
+    padding: 20px 0 20px 0;
+    
+}
+
+.image {
+    height: 200px;
+}
+
+.infoContainer {
+    padding: 10px;
+}
+
+.breed {
+    margin-top: 10px;
+}
+
+.favorite {
+    position: relative;
+    left: 270px;
+    bottom: 45px;
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+
+.favoriteIcon {
+    width: 40px;
+    height: 40px;
+}

@@ -1,0 +1,30 @@
+.sidebarContainer {
+    min-width: 275px;
+    max-width: 275px;
+    max-height: 100%;
+}
+
+.sidebar {
+    height: 500px;
+    padding: 0 20px 0 20px;
+    width: 275px;
+    position: fixed;
+    left: 0;
+}
+
+.title {
+    margin-bottom: 20px;
+}
+
+.sidebarContent {
+    margin-top: 10px;
+    padding: 20px;
+    height: 525px;
+    border: solid 1px #44055D;
+    border-radius: 20px;
+    background-color: #F7FFFE;
+}
+
+.form {
+    height: 335px;
+}

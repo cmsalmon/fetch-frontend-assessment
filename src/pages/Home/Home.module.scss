@@ -1,0 +1,30 @@
+.home {
+   width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+}
+
+.resultContainer {
+    margin-top: 10px; border: solid 1px #44055D;
+    margin-right: 20px;
+    background-color: #F7FFFE;
+    border-radius: 3px;
+}
+
+.modalContainer {
+    padding: 0 20px 20px 20px;
+}
+
+.dogCards {
+    width: 100%;
+    padding: 20px;
+    
+}
+
+.footer {
+    margin-left: 20px;
+}
