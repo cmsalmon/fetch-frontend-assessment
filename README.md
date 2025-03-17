@@ -1,12 +1,35 @@
-# React + Vite
+# Fetch Frontend Assessment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Table of Contents
 
-Currently, two official plugins are available:
+- [Overview](#overview)
+- [Running Fetch](#running-fetch)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Overview
 
-## Expanding the ESLint configuration
+Login to Fetch and search for the pup of your dreams. Enter your search criteria in the search section or simply browse through the pages to find your favorite pups.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Running Fetch
+Requires: 
+ - Node: ^18.18.0 || ^20.9.0 || >=21.1.0;  Most latest version recommended: (22.14.0)
+
+Open Shape-Viewer folder in an IDE.
+
+Create a [.env] file under the fetch-front-end-assessment folder and in it, add:
+```
+VITE_FETCH_BASE_URL=https://frontend-take-home-service.fetch.com
+```
+
+
+While in the fetch-front-end-assessment folder, run:
+
+```
+npm install
+```
+
+```
+npm run dev
+```
+ or accesss the hosted site: [Fetch](https://cmsalmon.github.io/fetch-frontend-assessment/).
+
+ Use Chrome for best experience.
