@@ -31,5 +31,6 @@ npm install
 npm run dev
 ```
  or accesss the hosted site: [Fetch](https://cmsalmon.github.io/fetch-frontend-assessment/).
+Code can be found at [GitHub](https://github.com/cmsalmon/fetch-frontend-assessment)
 
  Use Chrome for best experience.
